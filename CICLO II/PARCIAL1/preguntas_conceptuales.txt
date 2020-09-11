@@ -1,0 +1,20 @@
+PUNTO I:
+1.Un registro es un grupo de variables en los que se puede almacenar información de distinto tipo, se podrian utilizar si se tiene
+una solicitud de manejar informacion bajo un mismo tema, como un listado de estudiantes, en los cuales se deben de manejar
+las materias que llevan, las notas, las edades, etc.
+2.Un registro contiene variables con distintos tipos de datos(int,char, etc), las estructuras de datos son de un mismo
+tipo.
+
+PUNTO II:
+1.Lista Enlazada
+2.2
+3.2
+4.RECURSION MUTUA
+
+PUNTO V:
+1.Git es una plataforma que permite crear repositorios para guardar archivos con codigo fuente de programación,
+es muy util para un grupo de programadores que trabajen en un mismo proyecto, ya que cada persona puede trabajar
+en el area del proyecto que le corresponde a la vez y subir sus cambio a git.
+2.Commit:Permite guardar bajo un nombre todos los cambios que requerimos subir al git.
+Pull:Permite subir los cambios locales del proyecto al repositio en git luego de haber realizado un commit.
+Push:Permite descargar al entorno local todos los cambios que se le ha hecho al proyecto en git.
