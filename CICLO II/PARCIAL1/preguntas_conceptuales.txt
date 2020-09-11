@@ -5,7 +5,7 @@ las materias que llevan, las notas, las edades, etc.
 2.Un registro contiene variables con distintos tipos de datos(int,char, etc), las estructuras de datos son de un mismo
 tipo.
 
-PUNTO II:
+PUNTO II.:
 1.Lista Enlazada
 2.2
 3.2
