@@ -7,6 +7,7 @@ const int longCad = 50;
 
 using namespace std;
 
+
 struct listaTareas
 {
     char nombre[longCad+1];
